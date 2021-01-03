@@ -1,0 +1,135 @@
+4.1
+['68', '24', '48', '12', '42', '66', '78', '88', '76', '64', '24', '22', '64', '18', '36', '42', '56', '30', '44', '28', '94', '28', '52', '28', '6', '36', '34', '58']
+1 67
+1 23
+1 47
+1 11
+1 41
+5 61
+5 73
+5 83
+3 73
+3 61
+1 23
+3 19
+3 61
+1 17
+5 31
+1 41
+3 53
+1 29
+1 43
+5 23
+5 89
+5 23
+5 47
+5 23
+1 5
+5 31
+3 31
+5 53
+
+4.2
+brak
+tt 2
+brak
+lllllll 7
+dddd 4
+xx 2
+aaaaaaaaaaa 11
+jj 2
+aaaaaaaaaaaa 12
+ttt 3
+qqq 3
+uu 2
+brak
+ooo 3
+sssssssssssss 13
+ww 2
+mm 2
+ddddd 5
+ss 2
+ll 2
+xxx 3
+ttttt 5
+hhhhhhhhh 9
+ggggggg 7
+oo 2
+brak
+jjjj 4
+brak
+brak
+brak
+ooo 3
+brak
+rrr 3
+yyyyyyyyyyyy 12
+ccc 3
+brak
+tttt 4
+brak
+brak
+gg 2
+zzzzzzzz 8
+jj 2
+aaa 3
+oooo 4
+dddddd 6
+pppp 4
+brak
+ww 2
+brak
+aa 2
+aaaaaaa 7
+pppp 4
+ggg 3
+ggg 3
+xxxx 4
+brak
+ll 2
+bb 2
+brak
+brak
+mmmmm 5
+eee 3
+brak
+llll 4
+ggggg 5
+aaaaa 5
+jjjjjjjjjj 10
+brak
+jj 2
+kkkkk 5
+brak
+tt 2
+eee 3
+tttttttttt 10
+bbb 3
+tttt 4
+ww 2
+uu 2
+lll 3
+ttttttttttttttttttttttttttttttttt 33
+brak
+cccc 4
+dd 2
+bb 2
+brak
+brak
+hh 2
+aaaa 4
+ttt 3
+ee 2
+brak
+rrrrrrrrrrrrrr 14
+cccc 4
+brak
+aaaaaaa 7
+brak
+brak
+iii 3
+jj 2
+brak
+
+4.3
+3 asd
